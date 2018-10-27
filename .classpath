@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/2016 黑马 Java 19期视频+Hadoop大数据实战视频/04、第四阶段Hibernate（ORM框架技术）(4天)/day29-hibernate_day01/day29-hibernate_day01/code/Hibernate_day01/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
